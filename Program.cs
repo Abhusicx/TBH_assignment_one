@@ -5,7 +5,7 @@ namespace Assignment1
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
 
             classStudent Parth = new classStudent();
